@@ -1,1 +1,1 @@
-include 'blog-api','blog-web'
+include 'blog-api','blog-web','blog-core'
